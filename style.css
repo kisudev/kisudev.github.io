@@ -43,7 +43,7 @@ header.startup h1 {
 }
 
 .btn-xl {
-  padding: 1rem 2rem; 
+  padding: 10px 0 10px 3%; 
 }
 
 .btn-primary {
@@ -56,4 +56,7 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
+
+#mc-embedded-subscribe{
+  align-self: center;
+  }
