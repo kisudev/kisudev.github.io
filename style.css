@@ -43,7 +43,7 @@ header.startup h1 {
 }
 
 .btn-xl {
-  padding: 10px 0 10px 3%; 
+  padding: 1rem 2rem; 
 }
 
 .btn-primary {
@@ -58,5 +58,5 @@ header.startup h1 {
 }
 
 #mc-embedded-subscribe{
-  align-self: center;
+  margin: 0 auto;
   }
